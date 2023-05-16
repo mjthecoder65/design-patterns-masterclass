@@ -26,7 +26,7 @@ and reuse of existing code.
 2. Structural patterns: Explain how to assemble objects and classes into large structure
 while keeping these structures flexible and efficient.
 
-3. Behaviral pattern: Take care of effective communication and assignment of responsibilities 
+3. Behaviral patterns: Take care of effective communication and assignment of responsibilities 
 between objects.
 
 # The Catagol of Design Patterns.
